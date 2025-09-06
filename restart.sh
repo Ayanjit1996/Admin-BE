@@ -22,7 +22,7 @@ fi
 
 # Activate virtual environment (adjust path if needed)
 echo "⚡ Activating virtual environment..."
-source env/bin/activate
+source env2/bin/activate
 
 # Run makemigrations and migrate
 echo "🛠️  Making migrations..."
